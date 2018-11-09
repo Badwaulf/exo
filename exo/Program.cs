@@ -24,6 +24,8 @@ namespace exo
             finally
             {
                 Console.ReadLine();
+                
+
             }
         }
     }
